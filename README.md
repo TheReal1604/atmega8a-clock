@@ -17,6 +17,4 @@ Features of the clock:
 
 Maybe someone can benefit from my example code.. so have fun building it yourself. :)
 
-Pictures:
-
 ![clock gif](/images/clock.gif)
